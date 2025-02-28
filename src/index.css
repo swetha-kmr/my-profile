@@ -27,8 +27,6 @@
     --container-width-sm: 90%;
     
     --transition: all 400ms ease;
-
-
 }
 
 html{
@@ -37,7 +35,6 @@ html{
 }
 
 /* removing the scrollbar */
-
 ::-webkit-scrollbar{
 
     display: none;
@@ -64,16 +61,12 @@ h1, h2, h3, h4, h5{
 
     font-weight: 500;
 }
-
 h1{
-
     font-size: 2.5rem;
 }
-
 section{
-
     margin-top: 8rem; /*Having some white space around different section*/
-    
+  
 }
 
 section > h2, section > h5{
